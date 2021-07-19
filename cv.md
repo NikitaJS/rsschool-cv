@@ -16,7 +16,7 @@
 - The Rolling Scope courses.
 
 ## Education:
-Higher, but not related to programming.
+- Higher, but not related to programming.
 
 ## English:
-B1
+- B1
