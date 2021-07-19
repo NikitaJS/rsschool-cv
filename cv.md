@@ -13,10 +13,10 @@
 - JS
 
 ## Work experience:
-- The Rolling Scope courses
+- The Rolling Scope courses.
 
 ## Education:
-Higher, but not related to programming
+Higher, but not related to programming.
 
 ## English:
-A2-B1
+B1
