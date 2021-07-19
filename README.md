@@ -1,1 +1,0 @@
-https://github.com/NikitaJS/rsschool-cv
