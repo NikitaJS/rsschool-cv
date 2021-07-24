@@ -1,1 +1,1 @@
-https://github.com/NikitaJS/rsschool-cv
+https://quizzical-kowalevski-3b897e.netlify.app/
