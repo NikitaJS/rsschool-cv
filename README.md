@@ -1,1 +1,1 @@
-https://quizzical-kowalevski-3b897e.netlify.app/
+https://silly-mayer-7ae483.netlify.app/
